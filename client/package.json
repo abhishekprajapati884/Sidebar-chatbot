@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-chatview": "^0.2.5",
+    "socket.io-client": "^4.6.1",
+    "styled-components": "^5.3.11"
+  }
+}
